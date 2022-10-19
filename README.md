@@ -1,7 +1,7 @@
 # ubuntu-PostgreSQL-backup-script
 Create a backup script for your postgresql server
 
-Copy the script and paste it to this file
+Copy everything in backup.sh and paste it to this file
 
 sudo nano /usr/local/bin/backup.sh
 
